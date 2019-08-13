@@ -1,4 +1,7 @@
 zuul:
+  host:
+      socket-timeout-millis: 600000
+      connect-timeout-millis: 60000
   routes:
      path: /myProduct/**
      serviceId: product
