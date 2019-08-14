@@ -1,7 +1,7 @@
 
+
+
 zuul:
   routes:
   sensitive-headers:
-  host:
-   socket-timeout-millis: 600000
-   connect-timeout-millis: 60000
+ 
