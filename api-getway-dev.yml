@@ -2,8 +2,6 @@ zuul:
   host:
       socket-timeout-millis: 600000
       connect-timeout-millis: 60000
+zuul:
   routes:
-     path: /myProduct/**
-     serviceId: product
-     sensitiveHeaders:
-   #product: /myProduct/**
+  sensitive-headers:
