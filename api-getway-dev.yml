@@ -2,6 +2,7 @@
 
 
 zuul:
-  routes:
   sensitive-headers:
+
+  
  
