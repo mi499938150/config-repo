@@ -1,6 +1,6 @@
 spring:
   application:
-    name: appoint-server
+    name: appoint
   jpa:
     show-sql: true
     hibernate:
@@ -13,4 +13,4 @@ spring:
       driver-class-name: com.mysql.jdbc.Driver
       username: root
       password: 123456
-      url: jdbc:mysql://localhost:3306/scloud?serverTimezone=GMT%2B8
+      url: jdbc:mysql://127.0.0.1:3306/scloud?serverTimezone=GMT%2B8
