@@ -1,6 +1,6 @@
 spring:
   application:
-    name: appoint
+    name: user
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     password: 123456
