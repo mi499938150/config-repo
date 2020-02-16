@@ -14,3 +14,7 @@ spring:
       username: root
       password: 123456
       url: jdbc:mysql://127.0.0.1:3306/scloud?serverTimezone=GMT%2B8
+
+girl:
+  age: 23
+  name: lin
