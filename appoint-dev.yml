@@ -14,6 +14,11 @@ spring:
       username: root
       password: 123456
       url: jdbc:mysql://127.0.0.1:3306/scloud?serverTimezone=GMT%2B8
+  rabbitmq:
+      host: localhost
+      port: 5672
+      username: guest
+      password: guest
 
 girl:
   age: 23
