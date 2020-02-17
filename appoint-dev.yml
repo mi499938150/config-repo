@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: appoint
   jpa:
     show-sql: true  
     hibernate:
@@ -17,6 +20,4 @@
       username: guest
       password: guest
 
-girl:
-  age: 23
 
