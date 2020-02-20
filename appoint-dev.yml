@@ -21,3 +21,7 @@ spring:
       password: guest
 
 
+user:
+  username: xiaomi
+  password: 1234
+    
